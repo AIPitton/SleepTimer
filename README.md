@@ -1,6 +1,6 @@
 # Updates
 
-
+![radialProgress](https://github.com/AIPitton/SleepTimer/assets/66978272/69516ebc-8995-4ec3-b2cf-7740231c38b7)
 
 # Used Commands
 
