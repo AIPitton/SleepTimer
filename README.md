@@ -1,4 +1,12 @@
+# Updates
+
+
+
 # Used Commands
+
+npm install react-native-circular-progress-indicator
+
+npm install react-native-svg
 
 npm install nativewind
 

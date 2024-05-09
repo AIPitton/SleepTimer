@@ -1,12 +1,9 @@
 import { View, Text } from 'react-native'
 import React from 'react'
+import RadialButton from './src/components/RadialButton'
 
 const App = () => {
-  return (
-    <View>
-      <Text className="text-4xl">App</Text>
-    </View>
-  )
+  return <RadialButton />
 }
 
 export default App
